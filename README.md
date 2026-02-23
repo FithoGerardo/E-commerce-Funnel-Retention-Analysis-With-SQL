@@ -77,10 +77,10 @@ An analysis of the user lifecycle (end-to-end funnel and retention) was conducte
 * - Cohort Behavior: Early retention is strong (D7 ~87%, D14 ~55%). However, there is a massive "Day 28 Cliff," where retention plummets from ~25% (D21) to just 2-3% (D28).
 * - Country Behavior: Brazil has the highest retention (users love to browse/window shop) but very low conversion. Mexico displays the healthiest balance between high retention and decent conversion.
 
-* **3. Strategic Recommendations**
-- Urgent Technical Fix (High Priority): Immediately investigate payment and shipping configurations in Colombia, Ecuador, and Paraguay to resolve the 0% conversion blocking bug.
-- Product Page Optimization: Conduct A/B testing on the "Add to Cart" flow and improve shipping cost visibility to reduce the 85% drop-off at the selection stage.
-- Reactivation Strategy: Implement automated CRM campaigns (Email/Push) around Day 20 with incentives to prevent the drastic churn observed at Day 28.
-- Regional Tactics:
+**3. Strategic Recommendations**
+* Urgent Technical Fix (High Priority): Immediately investigate payment and shipping configurations in Colombia, Ecuador, and Paraguay to resolve the 0% conversion blocking bug.
+* Product Page Optimization: Conduct A/B testing on the "Add to Cart" flow and improve shipping cost visibility to reduce the 85% drop-off at the selection stage.
+* Reactivation Strategy: Implement automated CRM campaigns (Email/Push) around Day 20 with incentives to prevent the drastic churn observed at Day 28.
+* Regional Tactics:
 * - Chile: Review checkout costs and payment methods to capitalize on high cart intent.
 * - Brazil: Deploy "first-purchase" incentives to convert high-retention browsers into buyers.
