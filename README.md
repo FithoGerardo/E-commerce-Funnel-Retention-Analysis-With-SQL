@@ -1,4 +1,10 @@
 # E-commerce Funnel Retention Analysis With SQL
+
+* *Objective*: To optimize the user lifecycle by analyzing the conversion funnel and retention rates to identify friction points and revenue leakage within the platform.
+* *Data*: Processing and cleaning of relational e-commerce datasets (funnel and retention), integrating millions of records of navigation events, transactions, and signup dates segmented by country and device.
+* *Techniques*: Advanced SQL (extensive use of CTEs, complex JOINs, and aggregation functions) for multi-stage Funnel Analysis and Cohort Analysis; calculation of conversion KPIs and retention metrics (D7, D14, D28).
+* *Result*: Identified a critical technical failure in the checkout process for 3 countries (0% conversion) and an 85% drop-off in purchase intent ("Add to Cart"), driving the prioritization of urgent technical fixes and a targeted CRM reactivation strategy to address user churn at Day 28.
+
 Within the Growth and Retention team of an E-commerce platform, the Product Director stated: “We need to understand at which stage of the process we lose users and how we can improve their retention over time.”  SQL was used to map the full conversion funnel, identify the main drop-off points, evaluate user retention by cohorts, and propose actionable improvements based on the data.
 
 This project focuses on analyzing the full user funnel and retention performance using SQL. It aims to identify where users drop off, calculate conversion rates between key stages, and evaluate retention by cohorts over time (D7, D14, D21, D28). The analysis also examines how conversion and retention vary by country, device category, and referral source, and supports data-driven recommendations through validated results and executive-level insights.
