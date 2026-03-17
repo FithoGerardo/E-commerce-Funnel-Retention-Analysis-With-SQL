@@ -92,6 +92,13 @@ An analysis of the user lifecycle (end-to-end funnel and retention) was conducte
 * Regional Tactics:
 * - Chile: Review checkout costs and payment methods to capitalize on high cart intent.
 * - Brazil: Deploy "first-purchase" incentives to convert high-retention browsers into buyers.
+ 
+---
+
+## Author
+
+Gerardo Olmedo – Data Analyst
+---
 
 
 [Go back to the portfolio](https://fithogerardo.github.io/Gerardos_Portfolio/)
