@@ -98,6 +98,7 @@ An analysis of the user lifecycle (end-to-end funnel and retention) was conducte
 ## Author
 
 Gerardo Olmedo – Data Analyst
+
 ---
 
 
