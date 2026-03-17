@@ -1,5 +1,7 @@
 # E-commerce Funnel Retention Analysis With SQL
 
+[Go back to the portfolio](https://fithogerardo.github.io/Gerardos_Portfolio/)
+
 * *Objective*: To optimize the user lifecycle by analyzing the conversion funnel and retention rates to identify friction points and revenue leakage within the platform.
 * *Data*: Processing and cleaning of relational e-commerce datasets (funnel and retention), integrating millions of records of navigation events, transactions, and signup dates segmented by country and device.
 * *Techniques*: Advanced SQL (extensive use of CTEs, complex JOINs, and aggregation functions) for multi-stage Funnel Analysis and Cohort Analysis; calculation of conversion KPIs and retention metrics (D7, D14, D28).
@@ -90,3 +92,7 @@ An analysis of the user lifecycle (end-to-end funnel and retention) was conducte
 * Regional Tactics:
 * - Chile: Review checkout costs and payment methods to capitalize on high cart intent.
 * - Brazil: Deploy "first-purchase" incentives to convert high-retention browsers into buyers.
+
+
+[Go back to the portfolio](https://fithogerardo.github.io/Gerardos_Portfolio/)
+
